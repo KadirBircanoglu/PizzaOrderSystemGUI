@@ -2,8 +2,6 @@
 ![ss1](https://user-images.githubusercontent.com/125546912/224541042-3caaaa7b-ad26-4a10-8a3a-461b67607f80.png) <br/>
 **Proje Sahipleri:** <br/>
 Kadir Efe BİRCANOĞLU <br/>
-Eren KIRMIZI <br/>
-Aleyna SİVRİKAYA <br/>
 
 ## PROJENİN TANIMI
 
